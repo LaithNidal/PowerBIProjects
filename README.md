@@ -1,2 +1,2 @@
-# PowerBIProjects
-A Repo containing all some personal projects I have completed on MicrosoftPowerBI
+# Microsoft PowerBI Dashboards
+A repo containing the very first Dashboard designed on MicrosoftPowerBI
